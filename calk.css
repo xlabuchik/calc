@@ -41,13 +41,15 @@ body {
 	border-radius: 10px;
 }
 #calk {
-	padding: 2%;
+	text-align: center;
 	width: 50%;
 	margin: 0 auto;
 	margin-top: 5%;
-	background: rgb(28, 28, 44);
+	background-color: rgb(28, 28, 44);
 	border-radius: 10px;
 	box-shadow: 0 0 70px grey;
+	padding-top: 2%;
+	padding-bottom: 2%;
 }
 .digit, .dot {
 	margin-top: 0.5%;
